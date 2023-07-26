@@ -5,6 +5,6 @@ Date: July 27, 2023
 Project 1: Draw an E-R Diagram
 
 CMP Team: 
-Chimaroke Ezenwosu: cce40@scarletmail.rutgers.edu
-Matthew Zakrzewski: mz417@echo.rutgers.edu
+Chimaroke Ezenwosu: cce40@scarletmail.rutgers.edu \n
+Matthew Zakrzewski: mz417@echo.rutgers.edu \n
 Piyaporn Puangprasert: pp712@scarletmail.rutgers.edu
